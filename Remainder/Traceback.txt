@@ -1,0 +1,8 @@
+import numpy as np
+
+print(type(np.blahblah))
+
+
+Traceback (most recent call last):
+  File "./prog.py", line 3, in <module>
+AttributeError: module 'numpy' has no attribute 'blahblah'
